@@ -9,6 +9,7 @@ menampilkan pilihan peran (admin atau pembeli)
 
 2. role admin
    -. login
+   *
    ![image](https://github.com/Nova-NF/DDP_posttest2/assets/144618201/6c1ab2f1-778d-4e8f-a37d-aafee8db30a1)
 
    -. pilihan menu admin
