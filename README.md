@@ -8,7 +8,7 @@ menampilkan pilihan peran (admin atau pembeli)
    ![image](https://github.com/Nova-NF/DDP_posttest2/assets/144618201/f9b8d895-5812-4dd4-aa8e-43d42ae6553e)
 
 2. role admin
-   -. login
+   -. login \t
 ![image](https://github.com/Nova-NF/DDP_posttest2/assets/144618201/6c1ab2f1-778d-4e8f-a37d-aafee8db30a1)
 
    -. pilihan menu admin
